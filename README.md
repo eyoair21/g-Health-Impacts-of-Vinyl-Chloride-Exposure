@@ -1,5 +1,5 @@
 # Health Impact Assessment of Hazardous Chemical Exposure in Train Derailments
-This GitHub repository contains the code and data used in our study to assess the health impact of hazardous chemical exposure following train derailment incidents, with a focus on the East Palestine train derailment accident. Our aim is to provide valuable information for first responders, decision-makers, stakeholders, and researchers involved in emergency response, risk assessment, and the development of robust models for assessing the health impact of hazardous chemical exposure.
+This GitHub repository contains the code and data used in our study to assess the health impact of hazardous chemical exposure following train derailment incidents, with a focus on the East Palestine train derailment accident. Our aim is to provide valuable information for researchers involved  risk assessment, and the development of robust models for assessing the health impact of hazardous chemical exposure.
 
 ## Overview
 We developed a dataset using a quantitative risk assessment model and employed three machine learning models, including:
