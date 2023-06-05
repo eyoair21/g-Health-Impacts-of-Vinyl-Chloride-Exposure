@@ -36,7 +36,5 @@ scikit-learn
 
 
 
-## License
-This project is licensed under the UNT License. 
-## Acknowledgements
+
 
