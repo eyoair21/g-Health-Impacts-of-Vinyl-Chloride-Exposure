@@ -34,8 +34,7 @@ NumPy
 pandas
 scikit-learn
 
-## Contributing
-If you wish to contribute to this project, please open an issue or submit a pull request with the changes or additions you'd like to make.
+
 
 ## License
 This project is licensed under the UNT License. 
